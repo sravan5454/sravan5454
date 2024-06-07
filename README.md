@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sravan5454
 - 👀 I’m interested in ...data architecture, big data
-- 🌱 I’m currently learning ... Lakehouse architecture, Apache Hudi, and Terraform.
-- 💞️ I’m looking to collaborate on ... on projects that involve designing data warehouses and ETL pipelines.
+- 🌱 I’m currently learning ... Lakehouse architecture, Apache, and Terraform.
+- 💞️ I’m looking to collaborate on ... projects that involve designing data warehouses and ETL pipelines.
 - 📫 How to reach me ...Gmail: sravanannel2424@gmail.com
 - ⚡ Fun fact: ...I have a pet project that uses machine learning to predict sports game outcomes!
 
